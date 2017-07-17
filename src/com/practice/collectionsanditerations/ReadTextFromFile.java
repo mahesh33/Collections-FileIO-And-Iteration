@@ -14,7 +14,7 @@ public class ReadTextFromFile {
 	}
 
 	public String readFile() throws IOException {
-		String currentLine = bReader.readLine();
-		return currentLine;
+		String currentLine1 = bReader.readLine();
+		return currentLine1;
 	}
 }
